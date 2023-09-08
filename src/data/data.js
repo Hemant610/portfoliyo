@@ -11,7 +11,7 @@
   import threejs from "../images/tech/threejs.svg"
   //import brplast from "../images/brplast.png"
   import resum_pic from "../images/resum_pic.png"
-  import imageGenerator from "../images/imageGenerator.png"
+//  import imageGenerator from "../images/imageGenerator.png"
   //import giphyGallery from "../images/giphy-gallery.png"
   import bookmy from "../images/bookmy.png"
   export const navLinks = [
