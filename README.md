@@ -3,7 +3,7 @@
 <br>
 
 <p align="center">
-  <img src="public\landing.png"  title="Landing Page">
+ 
   <br>
 </p>
 
@@ -18,4 +18,4 @@
 
 ## Github link
 
-https://github.com/
+https://github.com/Hemant610/portfoliyo
